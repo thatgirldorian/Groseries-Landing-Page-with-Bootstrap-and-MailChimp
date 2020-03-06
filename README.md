@@ -1,7 +1,7 @@
 # Groseries-Landing-Page-with-Bootstrap-and-MailChimp
 
 <h3>Function & Description:</h3>
-This is a landing page for our groceries delivery start-up, Groseries. It is a simple one-pager featurette that leads to a sign-up form powered by MailChimp. This allows the users sign up for updates and news. 
+This is a landing page a our groceries delivery start-up, Groseries. It is a simple one-pager featurette created with Bootstrap 4 that leads to a sign-up form powered by MailChimp. This allows the users sign up for updates and news. 
 
 <h3>Challenge faced:</h3>
 I could not center the text inside the p tag. The code I wanted to use to do so was:
@@ -37,8 +37,8 @@ I saw a better way to do it on Stck Overflow with the following:
 - HTML
 - CSS
 - BootStrap
-- JavaScript
 - GitHub 
+- MailChimp
 - Netlify
 
 <h3>Link to site:</h3>
