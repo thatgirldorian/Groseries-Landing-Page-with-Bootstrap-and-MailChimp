@@ -1,7 +1,7 @@
-# MomSub-Landing-Page
+# Groseries-Landing-Page-with-Bootstrap-and-MailChimp
 
 <h3>Function & Description:</h3>
-This is a landing page for our start-up, MomSub. 
+This is a landing page for our groceries delivery start-up, Groseries. It is a simple one-pager featurette that leads to a sign-up form powered by MailChimp. This allows the users sign up for updates and news. 
 
 <h3>Challenge faced:</h3>
 I could not center the text inside the p tag. The code I wanted to use to do so was:
