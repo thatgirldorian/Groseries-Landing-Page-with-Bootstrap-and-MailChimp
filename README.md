@@ -13,6 +13,6 @@ This is a landing page a our groceries delivery start-up, Groseries. It is a sim
 - Netlify
 
 <h3>Link to site:</h3>
-
+https://angry-shirley-eaaabe.netlify.com/
 
 <h3>Screenshot:</h3>
