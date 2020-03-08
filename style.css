@@ -1,0 +1,62 @@
+body,
+html {
+	font-family: 'Montserrat', sans-serif;
+	background: url(images/fruit2.jpg) no-repeat center center fixed; 
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  -webkit-background-size: cover;
+}
+
+
+
+h1 {
+	margin-left: 280px;
+	top: 50px;
+}
+
+
+
+p {
+	text-align: left;
+	margin-top: 50px;
+	padding-bottom: 50px;
+	margin-left: 25px;
+}
+
+.btn {
+	font-weight: 700;
+	border-radius: 300px;
+	margin-left: 25px;
+}
+
+.btn-success {
+	background-color: #299617;
+	border-color: #299617;
+}
+
+.btn-success:hover{
+	background-color: #299617;
+	border-color: #299617;
+	border-width: 4px;
+}
+
+.btn-xl {
+	padding: 1rem 2rem;
+}
+
+
+
+img {
+  background-image: url(images/fruit2.jpg);
+  background-image: 
+    -webkit-image-set(
+      url(images/fruit2.jpg) 1x,
+      url(images/fruit2.jpg) 2x,
+    );
+  background-image: 
+    image-set(
+      url(images/fruit2.jpg) 1x,
+      url(images/fruit2.jpg) 2x,
+    );
+}
