@@ -15,4 +15,6 @@ This is a landing page a our groceries delivery start-up, Groseries. It is a sim
 <h3>Link to site:</h3>
 https://angry-shirley-eaaabe.netlify.com/
 
-<h3>Screenshot:</h3>
+<h3>Screenshots:</h3>
+
+![Capture](https://user-images.githubusercontent.com/40691059/77822789-2f891480-70f6-11ea-9d8f-759e4fbb26d2.PNG)
